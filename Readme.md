@@ -8,3 +8,5 @@ Files:
   * logistic regression/classifier, sigmoid,
   * softmax;
   * Evaluating models: precision, recall, F-score, confusion matrix.
+* ml_playground3.ipynb - ch8
+  * naive Bayes Model

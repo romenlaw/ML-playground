@@ -3,7 +3,7 @@ Files:
   * Linear Regression, Error Function, Gradient Descent, vectorised linear regression,
   * intro to polynomial regression.
   * splitting dataset, Regularisation
-* ml_playground2.ipynb - chp5-7, Classifier:
+* ml_playground2.ipynb - chp5-7, Classifier: Perceptron
   * discrete regression/classifier, step function,
   * logistic regression/classifier, sigmoid,
   * softmax;

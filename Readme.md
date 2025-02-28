@@ -11,3 +11,5 @@ Files:
 * ml_playground3.ipynb - ch8-9
   * naive Bayes Model. email spam model
   * decision tree - classification, regression
+* ml_playground4.ipynb - ch10
+  * neural network 

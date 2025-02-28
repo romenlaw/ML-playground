@@ -10,4 +10,4 @@ Files:
   * Evaluating models: precision, recall, F-score, confusion matrix.
 * ml_playground3.ipynb - ch8-9
   * naive Bayes Model. email spam model
-  * decision tree
+  * decision tree - classification, regression

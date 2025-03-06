@@ -12,4 +12,5 @@ Files:
   * naive Bayes Model. email spam model
   * decision tree - classification, regression
 * ml_playground4.ipynb - ch10
-  * neural network 
+  * neural network
+* ml_playground5.ipynb - ch11 

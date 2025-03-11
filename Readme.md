@@ -14,4 +14,9 @@ Files:
 * ml_playground4.ipynb - ch10
   * neural network
   * study tensorflow and pytorch, and loading each other's weights
-* ml_playground5.ipynb - ch11 
+* ml_playground5.ipynb - ch11
+  * SVM: linear,
+  * SVM non-linear, polynomial, RBF
+* ml_playground6.ipynb - ch12
+  * ensemble learning
+  * Bagging, AdaBoost, Gradient Boost, XGBoost  

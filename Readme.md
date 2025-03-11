@@ -13,4 +13,5 @@ Files:
   * decision tree - classification, regression
 * ml_playground4.ipynb - ch10
   * neural network
+  * study tensorflow and pytorch, and loading each other's weights
 * ml_playground5.ipynb - ch11 

@@ -20,3 +20,4 @@ Files:
 * ml_playground6.ipynb - ch12
   * ensemble learning
   * Bagging, AdaBoost, Gradient Boost, XGBoost  
+* ml_playground7.ipynb - ch13 end to end example using Titanic dataset

@@ -22,6 +22,10 @@ Files:
   * Bagging, AdaBoost, Gradient Boost, XGBoost  
 * ml_playground7.ipynb - ch13 end to end example using Titanic dataset
 * titanic_playground.ipynb - implementing neural network classifiers on Titanic dataset
+  * using keras, keras tuner
+  * using pytorch, ray tune
+  * exploring weights and gradients histograms like in makemore
+  * added notes from NN & RL book.
 
   
 Accompanying videos: [https://serrano.academy/linear-models/]

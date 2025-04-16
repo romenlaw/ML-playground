@@ -26,6 +26,7 @@ Files:
   * using pytorch, ray tune
   * exploring weights and gradients histograms like in makemore
   * added notes from NN & RL book.
+* nn_dl_notes.ipynb - study notes of NN and DL book by Kennedy Vieira Batista
 
   
 Accompanying videos: [https://serrano.academy/linear-models/]

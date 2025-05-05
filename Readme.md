@@ -27,6 +27,8 @@ Files:
   * exploring weights and gradients histograms like in makemore
   * added notes from NN & RL book.
 * nn_dl_notes.ipynb - study notes of NN and DL book by Kennedy Vieira Batista
+  * graphical proof of universal theorum, 2D, 3D bump functions
+* nn_dl_notes2.ipynb 
 
   
 Accompanying videos: [https://serrano.academy/linear-models/]
